@@ -10,7 +10,14 @@ Para instalar las dependencias del proyecto, ejecuta el siguiente comando en tu 
 npm install
 ```
 
+## Iniciar 
+
 Para ejecutar el proyecto localmente, ejecuta:
 
 ```bash
 npm run dev
+```
+
+## Tecnologías
+
+Esta Prueba Técnica utiliza las tecnologías: React y Bootstrap.
