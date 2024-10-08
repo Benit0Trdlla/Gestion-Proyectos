@@ -1,8 +1,16 @@
-# Gestor de Proyector - Prueba Técnica
+# Gestor de Proyectos - Prueba Técnica
 
 Instrucciones para configurar y ejecutar la aplicación 
 
-Currently, two official plugins are available:
+## Instalación
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para instalar las dependencias del proyecto, ejecuta el siguiente comando en tu terminal:
+
+```bash
+npm install
+```
+
+Para ejecutar el proyecto localmente, ejecuta:
+
+```bash
+npm run dev
